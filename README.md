@@ -10,7 +10,7 @@ El proyecto resuleve la necesidad de automatizar los combates, donde cada person
 ## 2- Estructura del repositori
 
 El proyecto está compuesto por tres archivos principales:
-personajes.py:Contiene toda la implementación del sistema, en esta encontraremos la clase base abstracta "Personaje" y las siguientes sub clases:
+**personajes.py:**Contiene toda la implementación del sistema, en esta encontraremos la clase base abstracta "Personaje" y las siguientes sub clases:
 - Personaje
 - Guerrero
 - Mago
@@ -18,13 +18,9 @@ personajes.py:Contiene toda la implementación del sistema, en esta encontraremo
 - Combate
 Además, contiene la lógica del combate, los métodos, las validaciones y las reglas de funcionamiento.
 
-### main.py
+**main.py:**Es el archivo encargado de ejecutar el programa, en este archivo se crean los personajes, se realizan enfrentamientos y se ejecutan los casos de prueba solicitados para verificar el correcto funcionamiento del sistema.
 
-Es el archivo encargado de ejecutar el programa, en este archivo se crean los personajes, se realizan enfrentamientos y se ejecutan los casos de prueba solicitados para verificar el correcto funcionamiento del sistema.
-
-### README.md
-
-Este contiene la documentación del proyecto, explicando la organización del programa y la aplicación de los conceptos de Programación Orientada a Objetos.
+**README.md:**Este contiene la documentación del proyecto, explicando la organización del programa y la aplicación de los conceptos de Programación Orientada a Objetos.
 
 ## 3- Clases 
 
